@@ -1,4 +1,4 @@
-#🛒 Blinkit Grocery Data Analysis – Power BI Dashboard
+🛒 Blinkit Grocery Data Analysis – Power BI Dashboard
 This project analyzes Blinkit grocery data using Power BI, providing insights into sales trends, customer behavior, and product performance.
 
 📊 Key Insights
