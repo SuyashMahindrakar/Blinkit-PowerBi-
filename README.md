@@ -8,7 +8,4 @@ Customer behavior & order insights
 Interactive visualizations for decision-making
 🔧 Tools Used
 Power BI for data visualization
-Excel for data preprocessing
-📂 Files
-Dashboard.pbix – Power BI dashboard
-BlinkIT Grocery Data.xlsx – Raw dataset
+Excel for data preprocessing.
